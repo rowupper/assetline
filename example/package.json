@@ -1,0 +1,16 @@
+{
+  "name": "example",
+  "private": true,
+  "scripts": {
+    "build": "assetline index.scss",
+    "prepare": "npm run build",
+    "lint": "stylelint --quiet --syntax scss **/*.scss",
+    "test": "npm run lint"
+  },
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "assetline": "file:../",
+    "stylelint": "~9.2.0",
+    "stylelint-config-rowupper": "~0.0.1"
+  }
+}

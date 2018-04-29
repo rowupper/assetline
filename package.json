@@ -1,0 +1,28 @@
+{
+  "name": "assetline",
+  "version": "0.0.1",
+  "description": "Scripts to build SCSS modules into CSS and stats.",
+  "bin": {
+    "assetline": "./cli.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --quiet {,*/}*.js",
+    "test": "npm run lint"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "~4.19.1",
+    "eslint-config-rowupper": "~0.0.1"
+  },
+  "dependencies": {
+    "autoprefixer": "~8.4.1",
+    "cssstats": "~3.2.0",
+    "fs-extra": "~5.0.0",
+    "meow": "~5.0.0",
+    "node-sass": "~4.9.0",
+    "pify": "~3.0.0",
+    "postcss": "~6.0.22",
+    "postcss-load-config": "~1.2.0"
+  }
+}
