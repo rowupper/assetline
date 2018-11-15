@@ -8,12 +8,14 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint --quiet {,*/}*.js",
-    "test": "npm run lint"
+    "test": "npm run lint",
+    "publish": "np --any-branch --yolo"
   },
   "license": "MIT",
   "devDependencies": {
     "eslint": "~5.9.0",
-    "eslint-config-rowupper": "~0.0.3"
+    "eslint-config-rowupper": "~0.0.3",
+    "np": "~3.0.4"
   },
   "dependencies": {
     "autoprefixer": "~9.3.1",
