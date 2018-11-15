@@ -1,6 +1,6 @@
 {
   "name": "assetline",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Scripts to build SCSS modules into CSS and stats.",
   "bin": {
     "assetline": "./cli.js"
