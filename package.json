@@ -12,17 +12,17 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "eslint": "~4.19.1",
-    "eslint-config-rowupper": "~0.0.1"
+    "eslint": "~5.9.0",
+    "eslint-config-rowupper": "~0.0.3"
   },
   "dependencies": {
-    "autoprefixer": "~8.4.1",
+    "autoprefixer": "~9.3.1",
     "cssstats": "~3.2.0",
-    "fs-extra": "~5.0.0",
+    "fs-extra": "~7.0.1",
     "meow": "~5.0.0",
-    "node-sass": "~4.9.0",
-    "pify": "~3.0.0",
-    "postcss": "~6.0.22",
-    "postcss-load-config": "~1.2.0"
+    "node-sass": "~4.10.0",
+    "pify": "~4.0.1",
+    "postcss": "~6.0.23",
+    "postcss-load-config": "~2.0.0"
   }
 }

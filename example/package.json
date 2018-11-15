@@ -10,7 +10,7 @@
   "license": "UNLICENSED",
   "devDependencies": {
     "assetline": "file:../",
-    "stylelint": "~9.2.0",
+    "stylelint": "~9.8.0",
     "stylelint-config-rowupper": "~0.0.1"
   }
 }
