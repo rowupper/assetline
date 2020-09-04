@@ -22,7 +22,7 @@
     "cssstats": "~3.3.0",
     "fs-extra": "~8.0.0",
     "meow": "~5.0.0",
-    "node-sass": "~4.12.0",
+    "node-sass": "~4.13.1",
     "pify": "~4.0.1",
     "postcss": "~7.0.16",
     "postcss-load-config": "~2.0.0"
