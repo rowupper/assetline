@@ -24,7 +24,7 @@
     "meow": "~5.0.0",
     "node-sass": "~4.12.0",
     "pify": "~4.0.1",
-    "postcss": "~7.0.16",
+    "postcss": "~8.2.10",
     "postcss-load-config": "~2.0.0"
   }
 }
